@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🌸✨ Hey there, lovely people! Welcome to my GitHub! ✨🌸  
 
-<!--
-**luhelenals/luhelenals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science student** with a passion for building things with code! While I absolutely love crafting powerful **backend systems**, I also enjoy adding a touch of magic to the **frontend**.  
 
-Here are some ideas to get you started:
+## 💕 A Little About Me  
+- 💻 Really enjoys **backend development** but dabble in frontend development  
+- 🌷 Always curious and learning new technologies
+- 🎀 Open to collaborations—let’s build something amazing together!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 My Tech Stack  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luhelenals&layout=compact&theme=rose_pine)  
+
+## 🌷 Featured Projects  
+🌸 **[🍓 Food App](https://github.com/luhelenals/food-api)** – An application to track ingredients and recipes with basic CRUD operations.  
+💖 **[🚀 Space Invaders](https://github.com/luhelenals/spaceinvaders)** – An OpenGL recreation of the classic arcade game.
+
+## 🎀 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luhelenals&show_icons=true&theme=rose_pine)  
+
+## 💌 Let’s Connect!  
+💕 Whether it’s for coding collabs or tech talk, I’d love to chat! 
+[🌷 LinkedIn](https://www.linkedin.com/in/luizahelenalsantos/)  
