@@ -11,9 +11,9 @@ I'm a **Computer Science student** with a passion for building things with code!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luhelenals&layout=compact&theme=rose_pine)  
 
 ## 💻 Technologies I Like
-**🌿 Backend** - .NET, Springboot, Node.js
-**🐘 Databases** - PostgreSQL, MySQL
-**🎀 Frontend** - Angular
+- **🌿 Backend** - .NET, Springboot, Node.js
+- **🐘 Databases** - PostgreSQL, MySQL
+- **🎀 Frontend** - Angular
 
 ## 🌷 Featured Projects  
 🌸 **[🍓 Food App](https://github.com/luhelenals/food-api)** – An application to track ingredients and recipes with basic CRUD operations.  
@@ -23,5 +23,5 @@ I'm a **Computer Science student** with a passion for building things with code!
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luhelenals&theme=rose_pine)
 
 ## 💌 Let’s Connect!  
-💕 Whether it’s for coding collabs or tech talk, I’d love to chat!
-[🌷 LinkedIn](https://www.linkedin.com/in/luizahelenalsantos/)  
+- 💕 Whether it’s for coding collabs or tech talk, I’d love to chat!
+- [🌷 LinkedIn](https://www.linkedin.com/in/luizahelenalsantos/)  
