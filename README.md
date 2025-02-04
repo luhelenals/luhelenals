@@ -1,4 +1,4 @@
-# 🌸✨ Hey there, lovely people! Welcome to my GitHub! ✨🌸  
+# 🌸✨ Hey there! Welcome to my GitHub! ✨🌸  
 
 I'm a **Computer Science student** with a passion for building things with code! While I absolutely love crafting powerful **backend systems**, I also enjoy adding a touch of magic to the **frontend**.  
 
@@ -18,5 +18,5 @@ I'm a **Computer Science student** with a passion for building things with code!
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luhelenals&show_icons=true&theme=rose_pine)  
 
 ## 💌 Let’s Connect!  
-💕 Whether it’s for coding collabs or tech talk, I’d love to chat! 
+💕 Whether it’s for coding collabs or tech talk, I’d love to chat!
 [🌷 LinkedIn](https://www.linkedin.com/in/luizahelenalsantos/)  
