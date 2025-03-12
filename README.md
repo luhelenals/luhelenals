@@ -1,4 +1,4 @@
-#✨ Hey there! Welcome to my GitHub! ✨
+# ✨ Hey there! Welcome to my GitHub! ✨
 
 I'm a **Computer Science student** that really enjoys **backend development** but sometimes dabbles in frontend too. I'm always curious and learning new technologies (currently exploring **.NET and C#**).
 
